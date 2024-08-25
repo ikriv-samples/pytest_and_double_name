@@ -1,0 +1,1 @@
+COMET_NAME = "Comet"
